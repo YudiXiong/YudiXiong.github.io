@@ -23,8 +23,13 @@ My primary research interests include federated learning, transfer learning, rec
 
 
 # 🔥 News
+- *2025.10*: &nbsp;🎉🎉 Started my visiting research at Nanyang Technological University (NTU), Singapore.
+- *2025.06*: &nbsp;🎉🎉 I became a Ph.D. Candidate!
 - *2025.04*: &nbsp;🎉🎉 One paper accepted by **IEEE TKDE** (IF=10.4)!
-- *2025.03*: &nbsp;🎉🎉 One paper accepted by **SCIS** (Co-author).
+- *2025.03*: &nbsp;🎉🎉 One paper accepted by **SCIS** (Co-author)!
+- *2024.07*: &nbsp;🎉🎉 Completed all coursework requirements for my Ph.D. program!
+- *2023.12*: &nbsp;🎉🎉 Attended the Trustworthy Federated Learning Winter School at Westlake University, Hangzhou.
+- *2023.09*: &nbsp;🎉🎉 Join the SZU as a Ph.D. Student!
 
 # 📖 Educations
 - *2023.09 - 2028.06*, Ph.D. Student (Thesis Advisor: [Prof. Qiang Yang](http://www.cse.ust.hk/~qyang)), College of Computer Science and Software Engineering, Shenzhen University, China
