@@ -23,7 +23,8 @@ My primary research interests include federated learning, transfer learning, rec
 
 
 # 🔥 News
-- *2025.04*: &nbsp;🎉🎉 One paper accepted by **IEEE TKDE**!
+- *2025.04*: &nbsp;🎉🎉 One paper accepted by **IEEE TKDE** (IF=10.4)!
+- *2025.03*: &nbsp;🎉🎉 One paper accepted by **SCIS** (Co-author).
 
 # 📖 Educations
 - *2023.09 - 2028.06*, Ph.D. Student (Thesis Advisor: [Prof. Qiang Yang](http://www.cse.ust.hk/~qyang)), College of Computer Science and Software Engineering, Shenzhen University, China
