@@ -39,17 +39,17 @@ My primary research interests include federated learning, transfer learning, rec
 
 **Yudi Xiong**, Yongxin Guo, Weike Pan, Qiang Yang, Zhong Ming, Xiaojin Zhang, Han Yu, Tao Lin, Xiaoying Tang
 
-IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE) 2025 <br>
+IEEE Transactions on Knowledge and Data Engineering (**IEEE TKDE**) 2025 <br>
 [code](https://github.com/YudiXiong/CVGAE),
 [web page](https://github.com/YudiXiong/CVGAE)
 </div>
 </div>
 
-- **[A Survey on Cross-User Federated Recommendation](https://arxiv.org/abs/2504.02666)**
+- **[A Survey on Cross-User Federated Recommendation](https://link.springer.com/article/10.1007/s11432-024-4310-7)**
   
   Enyue Yang, **Yudi Xiong**, Wei Yuan, Weike Pan, Qiang Yang, Zhong Ming 
   
-  Science China-Information Sciences (SCIS) 2025 <span style="color:red; font-weight:bold;">CCF A</span>
+  Science China-Information Sciences (**SCIS**) 2025 <span style="color:red; font-weight:bold;">CCF A</span>
 
 
 # 📚 Services
