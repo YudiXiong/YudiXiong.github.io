@@ -59,7 +59,7 @@ IEEE Transactions on Knowledge and Data Engineering (**IEEE TKDE**), 2025, <span
 
 
 # 📚 Services
-- TKDE, IJCAI Reviewer
+- TKDE, IJCAI, WWW Reviewer
 - 2020.09– 2021.09, President, Mathematics Modeling Association, Guilin University of Technology
 - 2020.09– 2021.09, Head of the Academic Department, Youth League Committee & Student Union, College of Computer Science and Engineering, Guilin University of Technology
 - 2019.09– 2020.09, Staff Member, Academic Department, Mathematics Modeling Association, Guilin University of Technology
