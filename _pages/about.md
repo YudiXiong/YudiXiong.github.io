@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I’m a Ph.D. student born in August 2001, currently studying in the [College of Computer Science and Software Engineering (CSSE)](https://csse.szu.edu.cn/) at [Shenzhen University (SZU)](https://en.szu.edu.cn/), advised by [Prof. Qiang Yang](https://home.cse.ust.hk/~qyang/) and [Prof. Weike Pan](https://csse.szu.edu.cn/staff/panwk/index.html). I am currently a visiting student at the [TrustFUL Lab](https://trustful.federated-learning.org/), CCDS, Nanyang Technological University (NTU), supervised by [Prof. Han Yu](https://federated-learning.org/han.yu/). Before that, I received my Bachelor's degree in the [College of Computer Science and Engineering](https://cise.glut.edu.cn/index.htm) at [Guilin University of Technology](https://www.glut.edu.cn/) in 2023. 
+Hi! I’m a Ph.D. student, born in August 2001 in Ezhou, and currently studying in the [College of Computer Science and Software Engineering (CSSE)](https://csse.szu.edu.cn/) at [Shenzhen University (SZU)](https://en.szu.edu.cn/), advised by [Prof. Qiang Yang](https://home.cse.ust.hk/~qyang/) and [Prof. Weike Pan](https://csse.szu.edu.cn/staff/panwk/index.html). I am currently a visiting student at the [TrustFUL Lab](https://trustful.federated-learning.org/), CCDS, Nanyang Technological University (NTU), supervised by [Prof. Han Yu](https://federated-learning.org/han.yu/). Before that, I received my Bachelor's degree in the [College of Computer Science and Engineering](https://cise.glut.edu.cn/index.htm) at [Guilin University of Technology](https://www.glut.edu.cn/) in 2023. 
 
 My primary research interests include federated learning, transfer learning, recommender systems, deep learning, statistical machine learning, and generative AI. I am open to various kinds of collaborations. If you have any ideas, please feel free to contact me.
 
@@ -35,6 +35,7 @@ My primary research interests include federated learning, transfer learning, rec
 - *2023.09 - 2028.06*, Ph.D. Student (Thesis Advisor: [Prof. Qiang Yang](http://www.cse.ust.hk/~qyang)), College of Computer Science and Software Engineering, Shenzhen University, China
 - *2025.10 - 2026.02*, Visiting Student at TrustFUL Lab, College of Computing and Data Science, Nanyang Technological University, Singapore.
 - *2019.09 - 2023.06*, Bachelor Student, College of Computer Science and Engineering, Guilin University of Technology, China.
+- *2016.09 - 2019.06*, High School Student, Ezhou Senior High School, China.
 
 # 📝 Publications 
 
