@@ -21,7 +21,7 @@ Hi! I’m a Ph.D. student, born in August 2001 in Ezhou, and currently studying 
 
 My primary research interests include federated learning, transfer learning, recommender systems, deep learning, statistical machine learning, and generative AI. I am open to various kinds of collaborations. If you have any ideas, please feel free to contact me.
 
-[中文主页](../chinese/YudiXiong.html)
+# [中文主页](../chinese/YudiXiong.html)
 
 
 # 🔥 News
