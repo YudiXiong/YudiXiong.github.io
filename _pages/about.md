@@ -60,7 +60,10 @@ IEEE Transactions on Knowledge and Data Engineering (**IEEE TKDE**), 2025, <span
   
   Enyue Yang, **Yudi Xiong**, Wei Yuan, Weike Pan, Qiang Yang, Zhong Ming 
   
-  Science China-Information Sciences (**SCIS**), 2025, <span style="color:red; font-weight:bold;">(CCF A, 中科院一区, Top期刊, IF=7.6)</span> 
+  Science China-Information Sciences (**SCIS**), 2025, <span style="color:red; font-weight:bold;">(CCF A, 中科院一区, Top期刊, IF=7.6)</span> <br>
+  [paper](https://link.springer.com/article/10.1007/s11432-024-4310-7),
+  [bibtex](https://dblp.org/rec/journals/chinaf/YangXYPYM25.html?view=bibtex)
+  
 
 
 # 📚 Services
