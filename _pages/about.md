@@ -27,11 +27,11 @@ My primary research interests include federated learning, transfer learning, rec
 # 🔥 News
 - *2025.10*: &nbsp;🎉🎉 Started my visiting research at Nanyang Technological University (NTU), Singapore.
 - *2025.06*: &nbsp;🎉🎉 I became a Ph.D. Candidate!
-- *2025.04*: &nbsp;🎉🎉 One paper accepted by **IEEE TKDE** (IF=10.4)! [[Wechat Promotional Article]](https://mp.weixin.qq.com/s/CNK2nTIAxNo5nbgoofmM1Q)
+- *2025.04*: &nbsp;🎉🎉 One paper accepted by **IEEE TKDE** (IF=10.4)! 
 - *2025.03*: &nbsp;🎉🎉 One paper accepted by **SCIS** (Co-author)!
 - *2024.07*: &nbsp;🎉🎉 Completed all coursework requirements for my Ph.D. program!
 - *2023.12*: &nbsp;🎉🎉 Attended the Trustworthy Federated Learning Winter School at Westlake University, Hangzhou. [[Wechat Promotional Article]](https://mp.weixin.qq.com/s/vQIpKAjSgofMa3yg1oSP2Q)
-- *2023.09*: &nbsp;🎉🎉 Join the SZU as a Ph.D. Student! [[Wechat Promotional Article]](https://mp.weixin.qq.com/s/OfqTCq_qINgdoKNQN3qVPA)
+- *2023.09*: &nbsp;🎉🎉 Join the SZU as a Ph.D. Student! 
 
 # 📖 Educations
 - *2023.09 - 2028.06*, Ph.D. Student (Thesis Advisor: [Prof. Qiang Yang](http://www.cse.ust.hk/~qyang)), College of Computer Science and Software Engineering, Shenzhen University, China
@@ -53,7 +53,6 @@ IEEE Transactions on Knowledge and Data Engineering (**IEEE TKDE**), 2025, <span
 [slides](https://pan.baidu.com/s/1yFaIIDOY8cIOcJ7yw_KW6Q?pwd=drb8),
 [code](https://github.com/YudiXiong/CVGAE),
 [data](https://pan.baidu.com/s/1WdjWxaCWUutbxbuZOrY26g?pwd=cvpe),
-[Wechat Promotional Article](https://mp.weixin.qq.com/s/CNK2nTIAxNo5nbgoofmM1Q),
 [bibtex](https://dblp.org/rec/journals/tkde/XiongGPYMZYLT25.html?view=bibtex)
 </div>
 </div>
