@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Yudi Xiong 熊宇迪 <br> [中文主页](../chinese/YudiXiong.html)"
+  name             : "Yudi Xiong 熊宇迪"
   avatar           : "images/YudiXiong.jpg"
   bio              : "Shenzhen University  <br> Ph.D. Candidate <br> (2023.09 - 2028.06)"
   location         : "Shenzhen, China"
