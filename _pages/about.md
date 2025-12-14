@@ -68,7 +68,8 @@ IEEE Transactions on Knowledge and Data Engineering (**IEEE TKDE**), 2025, <span
 
 
 # 📚 Services
-- International Workshop on Federated Foundation Models for the Web 2026 (FL@FM-TheWebConf'26), PC Member
+- IEEE Transactions on Neural Networks and Learning Systems (TNNLS), (CCFB, 中科院一区, Top期刊, IF=8.9), Reviewer
+- International Workshop on Federated Foundation Models for the Web 2026 (FL@FM-TheWebConf'26), (CCFA Workshop), PC Member
 - TKDE, IJCAI Reviewer
 - 2020.09– 2021.09, President, Mathematics Modeling Association, Guilin University of Technology
 - 2020.09– 2021.09, Head of the Academic Department, Youth League Committee & Student Union, College of Computer Science and Engineering, Guilin University of Technology
