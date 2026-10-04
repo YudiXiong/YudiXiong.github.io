@@ -25,9 +25,10 @@ My primary research interests include federated learning, transfer learning, rec
 
 
 # 🔥 News
+- *2026.09*: &nbsp;🎉🎉 One paper accepted by **TOIS** (IF=11.2)! 
 - *2025.10*: &nbsp;🎉🎉 Started my visiting research at Nanyang Technological University (NTU), Singapore.
 - *2025.06*: &nbsp;🎉🎉 I became a Ph.D. Candidate!
-- *2025.04*: &nbsp;🎉🎉 One paper accepted by **IEEE TKDE** (IF=10.4)! 
+- *2025.04*: &nbsp;🎉🎉 One paper accepted by **IEEE TKDE** (IF=11.6)! 
 - *2025.03*: &nbsp;🎉🎉 One paper accepted by **SCIS** (Co-author)!
 - *2024.07*: &nbsp;🎉🎉 Completed all coursework requirements for my Ph.D. program!
 - *2023.12*: &nbsp;🎉🎉 Attended the Trustworthy Federated Learning Winter School at Westlake University, Hangzhou. [[Wechat Promotional Article]](https://mp.weixin.qq.com/s/vQIpKAjSgofMa3yg1oSP2Q)
@@ -48,7 +49,7 @@ My primary research interests include federated learning, transfer learning, rec
 
 **Yudi Xiong**, Yongxin Guo, Weike Pan, Qiang Yang, Zhong Ming, Xiaojin Zhang, Han Yu, Tao Lin, Xiaoying Tang
 
-IEEE Transactions on Knowledge and Data Engineering (**IEEE TKDE**), 2025, <span style="color:red; font-weight:bold;">(CCF A, 中科院一区, Top期刊, IF=10.4)</span> <br>
+IEEE Transactions on Knowledge and Data Engineering (**IEEE TKDE**), 2025, <span style="color:red; font-weight:bold;">(CCF A, 中科院一区, Top期刊, JCR Q1, IF=11.6)</span> <br>
 [paper](https://ieeexplore.ieee.org/document/10980364),
 [slides](https://pan.baidu.com/s/1yFaIIDOY8cIOcJ7yw_KW6Q?pwd=drb8),
 [code](https://github.com/YudiXiong/CVGAE),
@@ -57,11 +58,23 @@ IEEE Transactions on Knowledge and Data Engineering (**IEEE TKDE**), 2025, <span
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TOIS</div><img src='images/BAPP.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**[A General Behavior-Aware Privacy-Preserving Framework for Sequential Recommendation]**
+
+**Yudi Xiong**, Weike Pan, Qiang Yang, Zhong Ming
+
+ACM Transactions on Information Systems (**TOIS**), 2026, <span style="color:red; font-weight:bold;">(CCF A, 中科院一区, Top期刊, JCR Q1, IF=11.2)</span> <br>
+[code](https://github.com/YudiXiong/BAPP)
+</div>
+</div>
+
 - **[A Survey on Cross-User Federated Recommendation](https://link.springer.com/article/10.1007/s11432-024-4310-7)**
   
   Enyue Yang, **Yudi Xiong**, Wei Yuan, Weike Pan, Qiang Yang, Zhong Ming 
   
-  Science China-Information Sciences (**SCIS**), 2025, <span style="color:red; font-weight:bold;">(CCF A, 中科院一区, Top期刊, IF=7.6)</span> <br>
+  Science China-Information Sciences (**SCIS**), 2025, <span style="color:red; font-weight:bold;">(CCF A, CCF T1, 中科院一区, Top期刊, JCR Q1, IF=8.1)</span> <br>
   [paper](https://link.springer.com/article/10.1007/s11432-024-4310-7),
   [bibtex](https://dblp.org/rec/journals/chinaf/YangXYPYM25.html?view=bibtex)
   
@@ -69,7 +82,9 @@ IEEE Transactions on Knowledge and Data Engineering (**IEEE TKDE**), 2025, <span
 
 # 📚 Services
 - IEEE Transactions on Neural Networks and Learning Systems (TNNLS), (CCFB, 中科院一区, Top期刊, IF=8.9), Reviewer
-- International Workshop on Federated Foundation Models for the Web 2026 (FL@FM-TheWebConf'26), (CCFA Workshop), PC Member
+- International Workshop on Federated Foundation Models for the Web 2026 ([FL@FM-TheWebConf'26](https://federated-learning.org/fl@fm-www-2026/)), (CCFA Workshop), PC Member
+- International Workshop on Federated Learning in the Age of Foundation Models In Conjunction with IJCAI 2026 ([FL@FM-IJCAI'26](https://federated-learning.org/fl@fm-ijcai-2026/)), (CCF B Workshop), PC Member
+- The 3rd Workshop on Evaluating and Applying Recommender Systems with Large Language Models ([EARL-CIKM'26](https://earl-workshop.github.io/)), (CCF B Workshop), PC Member
 - TKDE, IJCAI Reviewer
 - 2020.09– 2021.09, President, Mathematics Modeling Association, Guilin University of Technology
 - 2020.09– 2021.09, Head of the Academic Department, Youth League Committee & Student Union, College of Computer Science and Engineering, Guilin University of Technology
