@@ -81,8 +81,8 @@ ACM Transactions on Information Systems (**TOIS**), 2026, <span style="color:red
 
 
 # 📚 Services
-- IEEE Transactions on Neural Networks and Learning Systems (TNNLS), (CCFB, 中科院一区, Top期刊, IF=8.9), Reviewer
-- International Workshop on Federated Foundation Models for the Web 2026 ([FL@FM-TheWebConf'26](https://federated-learning.org/fl@fm-www-2026/)), (CCFA Workshop), PC Member
+- IEEE Transactions on Neural Networks and Learning Systems (TNNLS), (CCF B, 中科院一区, Top期刊, IF=8.9), Reviewer
+- International Workshop on Federated Foundation Models for the Web 2026 ([FL@FM-TheWebConf'26](https://federated-learning.org/fl@fm-www-2026/)), (CCF A Workshop), PC Member
 - International Workshop on Federated Learning in the Age of Foundation Models In Conjunction with IJCAI 2026 ([FL@FM-IJCAI'26](https://federated-learning.org/fl@fm-ijcai-2026/)), (CCF B Workshop), PC Member
 - The 3rd Workshop on Evaluating and Applying Recommender Systems with Large Language Models ([EARL-CIKM'26](https://earl-workshop.github.io/)), (CCF B Workshop), PC Member
 - TKDE, IJCAI Reviewer
