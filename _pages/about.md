@@ -61,7 +61,7 @@ IEEE Transactions on Knowledge and Data Engineering (**IEEE TKDE**), 2025, <span
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TOIS</div><img src='images/BAPP.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**[A General Behavior-Aware Privacy-Preserving Framework for Sequential Recommendation]**
+**A General Behavior-Aware Privacy-Preserving Framework for Sequential Recommendation**
 
 **Yudi Xiong**, Weike Pan, Qiang Yang, Zhong Ming
 
